@@ -47,3 +47,14 @@
         box-sizing: border-box;
     }
 }
+
+@media(max-width:1000px){
+    .box{
+       width:50%;
+    }  
+    *{
+        box-sizing:border-box;
+    }
+}  
+  
+  
